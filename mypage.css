@@ -2,3 +2,6 @@ body {
   background-color: #9dbdbd;
   text-align: center;
  }
+ul {
+  list-style-type: none;
+}
