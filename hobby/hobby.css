@@ -7,3 +7,7 @@ h1 {
 p {
   padding: 10px;
 }
+#images {
+    length : 60px;
+    width : 70px;
+}
